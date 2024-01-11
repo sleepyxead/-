@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/Order"
+        android:title="Заявки"
+        android:icon="@drawable/order_icon"
+        />
+    <item
+        android:id="@+id/Map"
+        android:title="Карта"
+        android:icon="@drawable/map_pin_icon"/>
+    <item
+        android:id="@+id/Mess"
+        android:title="Чаты"
+        android:icon="@drawable/message_circle_icon"/>
+    <item
+        android:id="@+id/Kvit"
+        android:title="Квитанция"
+        android:icon="@drawable/clipboard_icon"/>
+    <item
+        android:id="@+id/Profile"
+        android:title="Профиль"
+        android:icon="@drawable/user_icon"/>
+
+</menu>
